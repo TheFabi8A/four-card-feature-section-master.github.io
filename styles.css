@@ -93,8 +93,6 @@ main .card:last-child {
 @media screen and (min-width: 1366px) {
     body {
         margin: 0;
-        min-height: 100vh;
-        justify-content: center;
     }
 
     main {
