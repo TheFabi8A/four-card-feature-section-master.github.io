@@ -74,6 +74,10 @@ header p {
     margin-top: 1.667em;
 }
 
+.card p {
+    color: var(--very-dark-blue);
+}
+
 main .card:first-child {
     border-top: 0.333em solid var(--cyan);
 }
